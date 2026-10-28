@@ -1,0 +1,21 @@
+{
+  "webcredentials": {
+    "apps": ["TEAMID.com.raznos.ionictest"]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TEAMID.com.raznos.ionictest"],
+        "components": [
+          { "/": "/" },
+          { "/": "/catalog" },
+          { "/": "/catalog/*" },
+          { "/": "/catalog-long" },
+          { "/": "/catalog-long/*" },
+          { "/": "/settings" },
+          { "/": "/settings/*" }
+        ]
+      }
+    ]
+  }
+}

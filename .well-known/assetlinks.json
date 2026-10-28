@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.raznos.ionictest",
+      "sha256_cert_fingerprints": [
+        "F2:79:C4:67:4E:D9:16:4C:39:CC:9A:D7:D1:D6:F6:E1:62:26:B9:FF:8E:0F:5C:9E:1A:07:15:9D:1D:22:20:B0",
+        "AA:FC:53:A4:5C:E3:57:71:DC:F0:52:96:A3:AA:E0:CE:C9:3A:24:74:4D:4C:3B:F2:8C:5B:BA:81:DB:2E:C9:CA"
+      ]
+    }
+  }
+]
